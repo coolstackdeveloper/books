@@ -1,0 +1,27 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "convert": "node convert.js",
+    "checkin": "node checkin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/stackpond/books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/stackpond/books/issues"
+  },
+  "homepage": "https://gitlab.com/stackpond/books#README",
+  "dependencies": {
+    "is-uuid": "^1.0.2",
+    "json-2-csv": "^2.2.0",
+    "simple-git": "^1.96.0",
+    "uuid4": "^1.0.0"
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "A Whirlwind Tour of Python",
+    "filename": "a43fd7eb-4090-479e-94b3-aa02e0a3cbe0",
+    "authors": [],
+    "categories": ["Scripting"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": "https://jakevdp.github.io/WhirlwindTourOfPython/figures/cover-large.gif"
+  },
+  {
+    "title": "Introducing Java 8",
+    "filename": "c82adfc4-2881-4011-849e-9343ecfb0999",
+    "authors": [],
+    "categories": ["Programming"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": "https://images.gr-assets.com/books/1442088200l/26403488.jpg"
+  },
+  {
+    "title": "Java - The Legend",
+    "filename": "53439f8b-c071-4926-b2c9-4f04b9d0fadd",
+    "authors": [],
+    "categories": [],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": "http://covers.oreillystatic.com/images/0636920043478/cat.gif"
+  },
+  {
+    "title": "Modern Java EE Design Patterns",
+    "filename": "25ea25fe-a225-4e27-a9f0-60dec6304158",
+    "authors": [],
+    "categories": ["Software Practise"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": "https://developers.redhat.com/sites/default/files/2016-12/modernjavaee_solp_270px.png"
+  },
+  {
+    "title": "Object-Oriented vs Functional Programming",
+    "filename": "fdf88357-34d8-4b73-b425-43f9344f6d58",
+    "authors": [],
+    "categories": ["Programming"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": "http://covers.oreillystatic.com/images/0636920043010/cat.gif"
+  }
+]
