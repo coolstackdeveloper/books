@@ -3,7 +3,9 @@
     "title": "A Whirlwind Tour of Python",
     "filename": "a43fd7eb-4090-479e-94b3-aa02e0a3cbe0",
     "authors": [],
-    "categories": ["Scripting"],
+    "categories": [
+      "Scripting"
+    ],
     "shortDescription": "",
     "longDescription": "",
     "extension": ".pdf",
@@ -13,7 +15,9 @@
     "title": "Introducing Java 8",
     "filename": "c82adfc4-2881-4011-849e-9343ecfb0999",
     "authors": [],
-    "categories": ["Programming"],
+    "categories": [
+      "Programming"
+    ],
     "shortDescription": "",
     "longDescription": "",
     "extension": ".pdf",
@@ -33,7 +37,9 @@
     "title": "Modern Java EE Design Patterns",
     "filename": "25ea25fe-a225-4e27-a9f0-60dec6304158",
     "authors": [],
-    "categories": ["Software Practise"],
+    "categories": [
+      "Software Practise"
+    ],
     "shortDescription": "",
     "longDescription": "",
     "extension": ".pdf",
@@ -43,10 +49,64 @@
     "title": "Object-Oriented vs Functional Programming",
     "filename": "fdf88357-34d8-4b73-b425-43f9344f6d58",
     "authors": [],
-    "categories": ["Programming"],
+    "categories": [
+      "Programming"
+    ],
     "shortDescription": "",
     "longDescription": "",
     "extension": ".pdf",
     "thumbnailUrl": "http://covers.oreillystatic.com/images/0636920043010/cat.gif"
+  },
+  {
+    "title": "Blockchain 101 - A Visual Demo",
+    "filename": "_160oMzblY8",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/_160oMzblY8/hqdefault.jpg"
+  },
+  {
+    "title": "Blockchain 101 - Part 2 - Public and Private Keys and Signing",
+    "filename": "xIDL_akeras",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/xIDL_akeras/hqdefault.jpg"
+  },
+  {
+    "title": "How to Build Ethereum Dapp (Decentralized Application Development Tutorial)",
+    "filename": "3681ZYbDSSk",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/3681ZYbDSSk/hqdefault.jpg"
+  },
+  {
+    "title": "Code Your Own Cryptocurrency on Ethereum",
+    "filename": "XdKv5uwEk5A",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/XdKv5uwEk5A/hqdefault.jpg"
   }
 ]
