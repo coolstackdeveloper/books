@@ -108,5 +108,65 @@
     "longDescription": "",
     "extension": ".video",
     "thumbnailUrl": "https://img.youtube.com/vi/XdKv5uwEk5A/hqdefault.jpg"
+  },
+  {
+    "title": "Express Handbook",
+    "filename": "84c87f01-af3c-49ca-919c-81daf9951141",
+    "authors": [],
+    "categories": ["Backend"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": ""
+  },
+  {
+    "title": "Javascript from ES5 to ESNext",
+    "filename": "958b9564-df75-46fd-aea2-4bccf683cdf9",
+    "authors": [],
+    "categories": ["Web Development"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": ""
+  },
+  {
+    "title": "Javascript Handbook",
+    "filename": "cdb04430-9d16-477f-a81c-8e25c8df7763",
+    "authors": [],
+    "categories": ["Web Development"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": ""
+  },
+  {
+    "title": "Node Handbook",
+    "filename": "a2354bf8-7a43-47bf-bbdd-d5d3f49b1685",
+    "authors": [],
+    "categories": ["Backend"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": ""
+  },
+  {
+    "title": "React Handbook",
+    "filename": "cabbd930-de6d-4bb5-88ff-cbd400547369",
+    "authors": [],
+    "categories": ["Web Development"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": ""
+  },
+  {
+    "title": "Vue Handbook",
+    "filename": "d5942133-dc9f-4c48-9f38-0d06d2f67f52",
+    "authors": [],
+    "categories": ["Web Development"],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".pdf",
+    "thumbnailUrl": ""
   }
 ]
