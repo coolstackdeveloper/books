@@ -185,10 +185,26 @@
     "title": "Google Infrastructure Security Design Overview",
     "filename": "c14a0a00-15ac-4619-9b6c-1ecea35e9ae4",
     "authors": [],
-    "categories": ["GCP"],
+    "categories": [
+      "GCP"
+    ],
     "shortDescription": "",
     "longDescription": "",
     "extension": ".pdf",
     "thumbnailUrl": "https://imgv2-1-f.scribdassets.com/img/document/337791986/original/bb4d884503/1549980499?v=1"
+  },
+  {
+    "title": "Data storage service considerations",
+    "filename": "1Dqsi2M2tgM",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage--Fundamentals"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/1Dqsi2M2tgM/hqdefault.jpg"
   }
 ]
