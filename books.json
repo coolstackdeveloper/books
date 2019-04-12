@@ -194,17 +194,241 @@
     "thumbnailUrl": "https://imgv2-1-f.scribdassets.com/img/document/337791986/original/bb4d884503/1549980499?v=1"
   },
   {
-    "title": "Data storage service considerations",
+    "title": "Part I - Data storage service considerations",
     "filename": "1Dqsi2M2tgM",
     "authors": [],
     "categories": [
       "Distributed Computing",
       "Videos",
-      "Data Storage--Fundamentals"
+      "Data Storage"
     ],
     "shortDescription": "",
     "longDescription": "",
     "extension": ".video",
     "thumbnailUrl": "https://img.youtube.com/vi/1Dqsi2M2tgM/hqdefault.jpg"
+  },
+  {
+    "title": "Part II - Data temperature",
+    "filename": "ZQx7TjB-DGc",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/ZQx7TjB-DGc/hqdefault.jpg"
+  },
+  {
+    "title": "Part III - Using a cache to improve performance",
+    "filename": "0ijNG_9ks3A",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/0ijNG_9ks3A/hqdefault.jpg"
+  },
+  {
+    "title": "Part IV - Object (blob) storage services and using a CDN",
+    "filename": "W66STrTY0ss",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/W66STrTY0ss/hqdefault.jpg"
+  },
+  {
+    "title": "Part V - Relational and Non-relational database storage services",
+    "filename": "z4JwZnSWaTY",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/z4JwZnSWaTY/hqdefault.jpg"
+  },
+  {
+    "title": "Part VI - Data partitioning and replicas",
+    "filename": "zUGPl2B--kg",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/zUGPl2B--kg/hqdefault.jpg"
+  },
+  {
+    "title": "Part VII - Data Consistency",
+    "filename": "R8CnjBGHnTo",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/R8CnjBGHnTo/hqdefault.jpg"
+  },
+  {
+    "title": "Part VIII - Data Consistency - CQRS",
+    "filename": "_QV3tgdwcY4",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/_QV3tgdwcY4/hqdefault.jpg"
+  },
+  {
+    "title": "Part IX - Data Consistency - Event Sourcing",
+    "filename": "MQn9naAzDHA",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/MQn9naAzDHA/hqdefault.jpg"
+  },
+  {
+    "title": "Part X - Data Consistency - -Implementing eventual consistency",
+    "filename": "AM-UvgqR0nQ",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/AM-UvgqR0nQ/hqdefault.jpg"
+  },
+  {
+    "title": "Part XI - Data Consistency - The Saga Pattern",
+    "filename": "rwSvJO8N5lE",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/rwSvJO8N5lE/hqdefault.jpg"
+  },
+  {
+    "title": "Part XII - Data Consistency - Concurrency control",
+    "filename": "thgML4aDXHo",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/thgML4aDXHo/hqdefault.jpg"
+  },
+  {
+    "title": "Part XIII - Data Consistency - Optimistic Concurrency",
+    "filename": "_NThms8k5k4",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/_NThms8k5k4/hqdefault.jpg"
+  },
+  {
+    "title": "Part XIV - Versioning Data schemas",
+    "filename": "4hS-O25j_fU",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/4hS-O25j_fU/hqdefault.jpg"
+  },
+  {
+    "title": "Part XV - Data Storage - Backup & restore",
+    "filename": "Sbq_4qtfQzI",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/Sbq_4qtfQzI/hqdefault.jpg"
+  },
+  {
+    "title": "Part XVI - Data Storage - Recovery point & time objectives (RPO & RTO)",
+    "filename": "k_6hR8Laz0E",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/k_6hR8Laz0E/hqdefault.jpg"
+  },
+  {
+    "title": "Part XVII - Data Storage - Disaster recovery",
+    "filename": "ZWVBQMBHlw8",
+    "authors": [],
+    "categories": [
+      "Distributed Computing",
+      "Videos",
+      "Data Storage"
+    ],
+    "shortDescription": "",
+    "longDescription": "",
+    "extension": ".video",
+    "thumbnailUrl": "https://img.youtube.com/vi/ZWVBQMBHlw8/hqdefault.jpg"
   }
 ]
