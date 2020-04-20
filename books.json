@@ -453,5 +453,45 @@
         "longDescription": "",
         "extension": ".pdf",
         "thumbnailUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388965561l/78983.jpg"
+    },
+    {
+        "title": "Algorithm Notes for Professionals",
+        "filename": "45577de7-0fda-4899-a5c0-9a2685de8c2e",
+        "authors": [],
+        "categories": [],
+        "shortDescription": "",
+        "longDescription": "",
+        "extension": ".pdf",
+        "thumbnailUrl": "https://goalkicker.com/AlgorithmsBook/AlgorithmsGrow.png"
+    },
+    {
+        "title": "Cosmos DB Cheat Sheet",
+        "filename": "247d9417-d61f-44c1-9612-78cf326f0557",
+        "authors": [],
+        "categories": [],
+        "shortDescription": "",
+        "longDescription": "",
+        "extension": ".pdf",
+        "thumbnailUrl": ""
+    },
+    {
+        "title": "CSharp Notes For Professionals",
+        "filename": "c6471715-49c6-4ee0-8354-d0493871007a",
+        "authors": [],
+        "categories": [],
+        "shortDescription": "",
+        "longDescription": "",
+        "extension": ".pdf",
+        "thumbnailUrl": "https://goalkicker.com/CSharpBook/CSharpGrow.png"
+    },
+    {
+        "title": "The Definitive Guide to Mobile App Design",
+        "filename": "8b66788a-f6da-4b04-846d-43c39dc7c4ed",
+        "authors": [],
+        "categories": [],
+        "shortDescription": "",
+        "longDescription": "",
+        "extension": ".pdf",
+        "thumbnailUrl": "https://appinfusion.co.uk/wp-content/uploads/2018/09/Mobile-app-design.png"
     }
 ]
