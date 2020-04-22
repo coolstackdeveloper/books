@@ -495,7 +495,7 @@
         "thumbnailUrl": "https://appinfusion.co.uk/wp-content/uploads/2018/09/Mobile-app-design.png"
     },
     {
-        "title": "Conversations with God-An uncommon dialog",
+        "title": "Conversations with God - Book 1",
         "filename": "0ec33555-90bc-4b76-8f6a-f36e244ec5c3",
         "authors": [],
         "categories": [],
@@ -503,5 +503,25 @@
         "longDescription": "",
         "extension": ".pdf",
         "thumbnailUrl": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/3406/9780340693254.jpg"
+    },
+    {
+        "title": "Conversations with God - Book 2",
+        "filename": "a5197692-8046-48e5-a7e8-f3ee416b57b2",
+        "authors": [],
+        "categories": [],
+        "shortDescription": "",
+        "longDescription": "",
+        "extension": ".pdf",
+        "thumbnailUrl": "https://www.booktopia.com.au/http_coversbooktopiacomau/big/9780340765449/0000/conversations-with-god.jpg"
+    },
+    {
+        "title": "Conversations with God - Book 3",
+        "filename": "201bce01-f572-4f56-b683-f14553033a55",
+        "authors": [],
+        "categories": [],
+        "shortDescription": "",
+        "longDescription": "",
+        "extension": ".pdf",
+        "thumbnailUrl": "https://readings.com.pk/Pages/Categories/BookImages/9780340765456.jpg"
     }
 ]
